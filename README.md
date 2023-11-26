@@ -14,7 +14,7 @@ Immerse yourself in a dynamic blog experience with my Carousel format. Swipe thr
 For those who appreciate simplicity, I've created the Simple Image-Based Blogs. Each one features a single impactful image accompanied by my insightful narratives for an uncluttered reading experience.
 
 ## Responsive Design
-My website is designed to adapt seamlessly to various screen sizes and devices. Whether you're using a desktop, tablet, or smartphone, I want to ensure a consistent and enjoyable browsing experience.
+I believe my website is designed to adapt seamlessly to various screen sizes and devices. Whether you're using a desktop, tablet, or smartphone, I have tried to ensure a consistent and enjoyable browsing experience.
 
 ## Seeking Constructive Feedback
 I highly value your input and would greatly appreciate your feedback on my website. Whether you're a mentor, a visitor, or anyone interested in providing constructive feedback, I invite you to take a moment to evaluate my website and share your insights with me.
